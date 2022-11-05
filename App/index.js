@@ -1,7 +1,6 @@
 let groupsQueries = require("../Queries/group.js");
 let userQueries = require("../Queries/user.js");
 let messageQueries = require("../Queries/message.js");
-let groupsQueries = require("../Queries/group.js")
 let chatroomQueries = require("../Queries/chatroom.js")
 
 
